@@ -3,5 +3,7 @@ Diagramas UML de gestión de notas con:
 - paquetes
 - estados
 - secuencia o colaboración
+
+
 Sebastian Bohorquez Daza 20141020008
 Carlos gutierrez Ardila 20141020033
