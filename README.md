@@ -1,13 +1,13 @@
-#Diagramas UML de gestión de notas con:#
+# Diagramas UML de gestión de notas con:
 - componentes
 - paquetes
 - estados
 - secuencia o colaboración
 
 
-*Sebastian Bohorquez Daza 20141020008  
-*Carlos gutierrez Ardila 20141020033  
-*Gerardo Rolong 20141020028  
+ Sebastian Bohorquez Daza 20141020008  
+ Carlos gutierrez Ardila 20141020033  
+ Gerardo Rolong 20141020028  
 
 ![componentes](https://user-images.githubusercontent.com/22508392/41669676-f3f5e1cc-7477-11e8-88d1-d5497583c1f8.PNG)
 
